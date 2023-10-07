@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.container{
+
+}
+
+@media screen and (min-width: 401px) {
+    
+}
+
+@media screen and (max-width: 400px) {
+    
+}
